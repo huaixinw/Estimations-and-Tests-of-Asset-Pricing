@@ -1,4 +1,4 @@
-# Asset-Pricing-Tests
+# Basic Methods for Estimating and Tesing Factor Pricing Model
 Fama-MacBeth regression, Newey-West adjustment, and GMM adjustment (Shanken, 1992)
 
 This project aims to learn the basic tools of asset pricing tests by replicating main results of 
