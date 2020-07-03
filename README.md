@@ -9,6 +9,6 @@ The data is obtained from the homepage of Prof.Asaf Manela (http://apps.olin.wus
 The replication target is Table 5 of the above paper, which contains estimation of betas and standard errors. The main methods are Fama-MacBeth regression and Shanken-GMM adjustment (1992), we also add a simple function for Newey-West adjustment.
 
 NOTE: 
-1. For now, the code only contains the "estimation" part, the "testing" part is processing.
+1. For now, the code only contains the "estimation" part, the "testing" part is in processing.
 2. file "asset pricing tests add if intercept.py" is the replication code.
-3. before running the code, one should download the data from the above link.
+3. before running the code, one should download the data from the above link (Prof.Asaf Manela's page).
