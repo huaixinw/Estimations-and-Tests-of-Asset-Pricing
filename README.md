@@ -10,5 +10,5 @@ The replication target is Table 5 of the above paper, which contains estimation 
 
 NOTE: 
 1. For now, the code only contains the "estimation" part, the "testing" part is in processing.
-2. file "asset pricing tests add if intercept.py" is the replication code.
-3. before running the code, one should download the data from the above link (Prof.Asaf Manela's page).
+2. before running the code, one should download the data from the above link (Prof.Asaf Manela's page).
+
